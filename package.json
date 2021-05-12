@@ -1,15 +1,16 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/toil",
+  "repository": "sermons/toil",
+  "description": "1Thes2:1-12 The Toil of Love",
   "keywords": [
-    "slides"
+    "slides",
+    "1thessalonians"
   ],
   "version": "2.5.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "toil.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -20,14 +21,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Pacific Grace MB Church",
+        "city": "South Vancouver",
+        "date": "2021-05-16",
         "duration": 0
       }
     ],
     "slides": [
-      "sample.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0",
     "mathjax": "https://cdn.jsdelivr.net/npm/mathjax@2",
