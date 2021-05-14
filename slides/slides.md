@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> id="title" -->
 # The Toil of Love
 ## 1 Thessalonians 2:1-12
+[Warsaw, Poland. FreeStocks](https://unsplash.com/photos/r_oV6smBBYk/info "caption")
 
 >>>
 + During pandemic, been easy to become **isolated**
@@ -55,7 +56,7 @@
   + **How** ought we to share the gospel?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" id="outline" -->
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" id="outline" -->
 ## Toil of Love [(1Thes2)](# "ref")
 <!-- .element: class="r-fit-text" -->
 
@@ -148,7 +149,15 @@ but to please **God** who **tests** our hearts.
 <!-- .element: class="r-fit-text" -->
 
 ---
-## (outline 2)
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
+## Toil of Love [(1Thes2)](# "ref")
+<!-- .element: class="r-fit-text" -->
+
+1. Clean Heart [(v3-6)](# "ref")
+1. **Mother's Gift** [(v7-9)](# "ref")
+1. Father's Encouragement  [(v10-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Might feel **unworthy** + unready to preach gospel
@@ -248,7 +257,15 @@ while we proclaimed to you the gospel of God.
 <!-- .element: class="r-fit-text" -->
 
 ---
-## (outline 3)
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
+## Toil of Love [(1Thes2)](# "ref")
+<!-- .element: class="r-fit-text" -->
+
+1. Clean Heart [(v3-6)](# "ref")
+1. Mother's Gift [(v7-9)](# "ref")
+1. **Father's Encouragement** [(v10-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Lastly, we share the gospel with 
