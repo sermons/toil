@@ -13,7 +13,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do we **share** the gospel when we are **weak**?
+# How do we **share** the gospel <br> when we are **weak**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -33,7 +33,7 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
-## Growing Together, While Apart
+# Growing Together, While Apart
 <!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 
@@ -140,14 +140,15 @@ but to please **God** who **tests** our hearts.
 >>>
 + As I **prepare** to share gospel, **examine** own heart:
 + Do I **study** the Bible honestly + deeply? 
-  + Not only know God's grace, but have **experienced** it?
-+ Do I seek no **gain** for self? No money, no thx, no admiration,
-  + but only the **reward** of sharing in our Father's happiness?
-+ What is my **motivation** for proclaiming the name of Christ?
+  + Not only know God's grace, but have **exp** it?
++ Do I seek no **gain** for self? 
+  + No money, no thx, no admiration, but only
+  + **reward** of sharing in Father's happiness?
++ What is my **motivation** for proclaim name of Christ?
 
 ---
 <!-- .slide: data-background="white" -->
-# Is my heart **clean** as I share the gospel?
+# Is my heart **clean** <br> as I share the gospel?
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -155,7 +156,8 @@ but to please **God** who **tests** our hearts.
 
 >>>
 + Might feel **unworthy** + unready to preach gospel
-+ But it is not our **eloquence** or holiness that changes others' hearts
++ But it is not our **eloquence** or holiness 
+  + that changes others' **hearts**
 + But the **life** of the risen Saviour
 
 ---
@@ -166,12 +168,14 @@ taking care of her own children.
 [1 Thessalonians 2:7 (ESV)](# "ref")
 
 >>>
-+ *Gentle*: older manuscripts: **babies** (diff of one letter)
++ *Gentle*: older manuscripts: **babies** (diff one letter)
   + v11 **father**: analogy of **family** rl
-+ "Church family": but often bring **trauma** from own families:
++ "Church family": but too often in reality,
+  + bring **trauma** from own families:
   + **hurt**, distrust, fear, bitterness
-  + Or want **escape** own family: conseq. **shallow** church rl
-+ Paul's care for Thess: **warm bond** of mother to child
++ Or want **escape** own family: 
+  + consequently only dare have **shallow** church rl
++ Paul's care for Thess: **warm bond** mother to child
   + Investing **whole** heart
 + **Singles** can show motherly/fatherly love, too!
 
@@ -187,7 +191,8 @@ because you had become very **dear** to us.
 + You became **beloved** to us, w/deep **yearning** 
 + *Share*: give over, **transfer**: pour out life to you
 + (mom): sharing gospel not merely comm. of **knowledge**
-  + but comm. of **life**: life of Christ, from my life to yours
+  + but comm. of **life**: 
+  + life of **Christ**, from **my** life to **yours**
 + w/**vulnerability**, warmth, deep affection
   + and **hard work**:
 
@@ -243,7 +248,7 @@ while we proclaimed to you the gospel of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **work** hard and **care** deeply as I proclaim the gospel?
+# Do I **work** hard <br> and **care** deeply <br> as I proclaim the gospel?
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -263,11 +268,11 @@ was our conduct toward you believers.
 >>>
 + How we **were** toward you (adverbs):
   + way in which we **behaved** toward you
-+ *Holy*: pious, devout, **reverent**: in light of God's law
++ *Holy*: pious, devout, **reverent**: in light God's law
 + *Righteous*: acc. God's std of **justice**
   + not **own** std, nor that of **tradition**
-+ *Blameless*: not free from **human** condemnation, but
-  + released from **God's** judgment: under **Chr's** grace
++ *Blameless*: not free from **human** condemn, but
+  + released from **God's** judg: under **Chr's** grace
 + So we live in a **holy** manner out of
   + **gratitude** for Christ's forgiveness
 + But it is **hard** to live consistently holy:
@@ -289,17 +294,17 @@ who calls you into his own kingdom and glory.
 + Just as God gave first **commandments** to Adam,
   + and through him to his **family**,
 + So we **fathers** have respb. to **speak** God's Word
-  + and not just fathers, **all** of us!
-+ *Exhort*: **encourage**, call alongside: not give **orders**,
+  + in fact, not just fathers, **all** of us!
++ *Exhort*: **encour**, call alongside: not give **orders**,
   + but **be** with as they stumble + learn
-+ *Encourage*: **comfort**, console, soothe, also alongside
++ *Encourage*: **comfort**, console, soothe (alongside)
 + *Charge*: **testify**, share from own exp and
   + solemnly **affirm** God's way is the path of life
 
 ---
 ## (walk worthily)
 >>>
-+ We do this not to bolster **self-esteem** or attain **goals**,
++ Not to bolster **self-esteem** or attain own **goals**,
 + But that their **walk** (daily habits)
 + may be **worthy** -- reflect the worth of God 
   + and hence be a life that **worships** Him
@@ -312,7 +317,7 @@ who calls you into his own kingdom and glory.
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **encourage**, **comfort**, and **testify** that others may walk **worthy** of God's calling?
+# Will I **encourage**, **comfort**, and **testify** <br> that others may walk **worthy** of God's calling?
 <!-- .element: class="r-fit-text" -->
 
 >>>
