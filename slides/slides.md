@@ -29,9 +29,6 @@
   + Equip us to **proclaim** Your gospel with our lives
 
 ---
-## (prayer)
-
----
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
 # Growing Together, While Apart
 <!-- .element: class="r-fit-text" -->
@@ -169,7 +166,7 @@ taking care of her own children.
 >>>
 + *Gentle* : older manuscripts: **babies** (diff one letter)
   + v11 **father**: analogy of **family** rl
-+ "Church family": but too often in reality,
++ "Church family": but in reality, too often
   + bring **trauma** from own families:
   + **hurt**, distrust, fear, bitterness
 + Or want **escape** own family: 
@@ -188,7 +185,7 @@ because you had become very **dear** to us.
 
 >>>
 + You became **beloved** to us, w/deep **yearning** 
-+ *Share*: give over, **transfer**: pour out life to you
++ *Share* : give over, **transfer**: pour out life to you
 + (mom): sharing gospel not merely comm. of **knowledge**
   + but comm. of **life**: 
   + life of **Christ**, from **my** life to **yours**
