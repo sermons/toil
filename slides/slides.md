@@ -85,7 +85,10 @@
 For our appeal does not spring from <br>
 **error** or **impurity** or any attempt to **deceive**, 
 
-[1 Thessalonians 2:3 (ESV)](# "ref")
+我們的勸勉不是出於錯誤，<br>
+不是出於污穢，也不是用詭詐。
+
+[1 Thessalonians 帖撒羅尼迦前書 2:3 (ESV/CUV)](# "ref")
 
 >>>
 + Even Paul had **motives** questioned! (**Christ**, too)
@@ -107,7 +110,12 @@ nor with a pretext for **greed** --<br>
 God is witness. <br>
 Nor did we seek **glory** from people
 
-[1 Thessalonians 2:5 (ESV)](# "ref")
+因為我們從來沒有用過諂媚的話，<br>
+這是你們知道的；<br>
+也沒有藏著貪心，<br>
+這是神可以作見證的。
+
+[1 Thessalonians 帖撒羅尼迦前書 2:5 (ESV/CUV)](# "ref")
 
 >>>
 + How we **were** / became, when among you
@@ -126,7 +134,11 @@ to be **entrusted** with the gospel, <br>
 so we speak, not to please **man**, <br>
 but to please **God** who **tests** our hearts. 
 
-[1 Thessalonians 2:4 (ESV)](# "ref")
+但神既然驗中了我們，把福音託付我們，<br>
+我們就照樣講，不是要討人喜歡，<br>
+乃是要討那察驗我們心的神喜歡
+
+[1 Thessalonians 帖撒羅尼迦前書 2:4 (ESV/CUV)](# "ref")
 
 >>>
 + Gospel not **invented** by man, but **given** to us by God
@@ -175,7 +187,10 @@ But we were **gentle** among you, <br>
 like a nursing **mother** <br>
 taking care of her own children. 
 
-[1 Thessalonians 2:7 (ESV)](# "ref")
+只在你們中間存心溫柔，<br>
+如同母親乳養自己的孩子
+
+[1 Thessalonians 帖撒羅尼迦前書 2:7 (ESV/CUV)](# "ref")
 
 >>>
 + *Gentle* : older manuscripts: **babies** (diff one letter)
@@ -195,7 +210,12 @@ we were ready to **share** with you not only <br>
 the **gospel** of God but also our own **selves**, <br>
 because you had become very **dear** to us.
 
-[1 Thessalonians 2:8 (ESV)](# "ref")
+我們既是這樣愛你們，<br>
+不但願意將神的福音給你們，<br>
+連自己的性命也願意給你們，<br>
+因你們是我們所疼愛的
+
+[1 Thessalonians 帖撒羅尼迦前書 2:8 (ESV/CUV)](# "ref")
 
 >>>
 + You became **beloved** to us, w/deep **yearning** 
@@ -212,7 +232,12 @@ we worked **night and day**, that we <br>
 might not be a **burden** to any of you, <br>
 while we proclaimed to you the gospel of God. 
 
-[1 Thessalonians 2:9 (ESV)](# "ref")
+弟兄們，你們記念我們的<br>
+辛苦勞碌，晝夜做工，<br>
+傳神的福音給你們，<br>
+免得叫你們一人受累
+
+[1 Thessalonians 帖撒羅尼迦前書 2:9 (ESV/CUV)](# "ref")
 
 >>>
 + **Tentmaking**: normal, honest work, not partic. "spiritual"
@@ -282,7 +307,11 @@ You are witnesses, and God also, how <br>
 **holy** and **righteous** and **blameless** <br>
 was our conduct toward you believers. 
 
-[1 Thessalonians 2:10 (ESV)](# "ref")
+我們向你們信主的人，<br>
+是何等聖潔、公義、無可指摘，<br>
+有你們作見證，也有神作見證。
+
+[1 Thessalonians 帖撒羅尼迦前書 2:10 (ESV/CUV)](# "ref")
 
 >>>
 + How we **were** toward you (adverbs):
@@ -298,15 +327,20 @@ was our conduct toward you believers.
   + Benefit from **mentors** who **encourage** us:
 
 ---
-For you know how, <br>
-like a **father** with his children, <br>
-[12](# "ref")
+For you know how, like a **father** with his <br>
+children, [12](# "ref")
 we **exhorted** each one of you <br>
 and **encouraged** you and **charged** you <br>
 to **walk** in a manner **worthy** of God, <br>
 who calls you into his own kingdom and glory.
 
-[1 Thessalonians 2:11-12 (ESV)](# "ref")
+你們也曉得我們怎樣勸勉你們，<br>
+安慰你們，囑咐你們各人，<br>
+好像父親待自己的兒女一樣，<br>
+要叫你們行事對得起那召你們進他國、<br>
+得他榮耀的神。
+
+[1 Thessalonians 帖撒羅尼迦前書 2:11-12 (ESV/CUV)](# "ref")
 
 >>>
 + Just as God gave first **commandments** to Adam,
