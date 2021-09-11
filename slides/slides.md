@@ -66,8 +66,7 @@
 
 1. Clean **Heart** **清潔的心** [(v3-6)](# "ref")
 1. **Mother's** Gift **母親的禮物** [(v7-9)](# "ref")
-1. **Father's** Encouragement **父親的鼓勵** [(v10-12)](# "ref")
-<!-- .element: class="r-fit-text" -->
+1. **Father's** Encouragement <br> **父親的鼓勵** [(v10-12)](# "ref")
 
 >>>
 + Only **scratch** surface: inspire you to study **deeply**
@@ -106,8 +105,7 @@ For our appeal does not spring from <br>
 ---
 For we never came with <br>
 words of **flattery**, as you know, <br>
-nor with a pretext for **greed** --<br>
-God is witness. <br>
+nor with a pretext for **greed** -- God is witness. <br>
 Nor did we seek **glory** from people
 
 因為我們從來沒有用過諂媚的話，<br>
@@ -173,8 +171,7 @@ but to please **God** who **tests** our hearts.
 
 1. Clean Heart 清潔的心 [(v3-6)](# "ref")
 1. **Mother's Gift 母親的禮物** [(v7-9)](# "ref")
-1. Father's Encouragement 父親的鼓勵 [(v10-12)](# "ref")
-<!-- .element: class="r-fit-text" -->
+1. Father's Encouragement <br> 父親的鼓勵 [(v10-12)](# "ref")
 
 >>>
 + Might feel **unworthy** + unready to preach gospel
@@ -295,8 +292,7 @@ while we proclaimed to you the gospel of God.
 
 1. Clean Heart 清潔的心 [(v3-6)](# "ref")
 1. Mother's Gift 母親的禮物 [(v7-9)](# "ref")
-1. **Father's Encouragement 父親的鼓勵** [(v10-12)](# "ref")
-<!-- .element: class="r-fit-text" -->
+1. **Father's Encouragement** <br> **父親的鼓勵** [(v10-12)](# "ref")
 
 >>>
 + Lastly, we share the gospel with 
@@ -336,9 +332,8 @@ who calls you into his own kingdom and glory.
 
 你們也曉得我們怎樣勸勉你們，<br>
 安慰你們，囑咐你們各人，<br>
-好像父親待自己的兒女一樣，<br>
-要叫你們行事對得起那召你們進他國、<br>
-得他榮耀的神。
+好像父親待自己的兒女一樣， 要叫你們 <br>
+行事對得起那召你們進他國、 得他榮耀的神。
 
 [1 Thessalonians 帖撒羅尼迦前書 2:11-12 (ESV/CUV)](# "ref")
 
