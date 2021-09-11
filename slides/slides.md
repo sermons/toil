@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> id="title" -->
-# The Toil of Love
-## 1 Thessalonians 2:1-12
+# The Toil of Love <br> 愛心的勞苦
+## 1 Thessalonians <br> 帖撒羅尼迦前書 2:1-12
 [Warsaw, Poland. FreeStocks](https://unsplash.com/photos/r_oV6smBBYk/info "caption")
 
 >>>
@@ -15,6 +15,8 @@
 ---
 <!-- .slide: data-background="white" -->
 # How do we **share** the gospel <br> when we are **weak**?
+<!-- .element: class="r-fit-text" -->
+# 當我們軟弱時 <br> 如何分享福音?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -31,16 +33,18 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
-# Growing Together, While Apart
+## Growing Together, While Apart <br> 當分開時一起成長
 <!-- .element: class="r-fit-text" -->
 
-| *1* | Impact of **Faith** | 
-|---|---|
-| *2a,b* | Toil of **Love** |
-| *3* | Strength from **Hope** |
-| *4* | Growing in Purity + **Love** |
-| *5a* | **Hope** of Salvation |
-| *5b* | Acts of **Faith** |
+| *1* | Impact of **Faith** | 信心的影響 |
+|---|---|---|
+| *2a,b* | Toil of **Love** | 愛心的勞苦 |
+| *3* | Strength from **Hope** | 來自盼望的力量 |
+| *4* | Grow in Purity + **Love** | 在清潔和愛中成長 |
+| *5a* | **Hope** of Salvation | 救贖的盼望 |
+| *5b* | Acts of **Faith** | 信心的行為 |
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Theme: **FHL**. ch1: thxgv for Thes' **faith** 
@@ -57,13 +61,12 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" id="outline" -->
-## Toil of Love [(1Thes2)](# "ref")
+## Toil of Love 愛心的勞苦
 <!-- .element: class="r-fit-text" -->
 
-1. Clean **Heart** [(v3-6)](# "ref")
-1. **Mother's** Gift [(v7-9)](# "ref")
-1. **Father's** Encouragement  [(v10-12)](# "ref")
-
+1. Clean **Heart** **清潔的心** [(v3-6)](# "ref")
+1. **Mother's** Gift **母親的禮物** [(v7-9)](# "ref")
+1. **Father's** Encouragement **父親的鼓勵** [(v10-12)](# "ref")
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -148,15 +151,17 @@ but to please **God** who **tests** our hearts.
 # Is my heart **clean** <br> as I share the gospel?
 <!-- .element: class="r-fit-text" -->
 
----
-<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
-## Toil of Love [(1Thes2)](# "ref")
+# 當我分享福音時，<br> 我的心是潔淨的嗎?
 <!-- .element: class="r-fit-text" -->
 
-1. Clean Heart [(v3-6)](# "ref")
-1. **Mother's Gift** [(v7-9)](# "ref")
-1. Father's Encouragement  [(v10-12)](# "ref")
+---
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
+## Toil of Love 愛心的勞苦
+<!-- .element: class="r-fit-text" -->
 
+1. Clean Heart 清潔的心 [(v3-6)](# "ref")
+1. **Mother's Gift 母親的禮物** [(v7-9)](# "ref")
+1. Father's Encouragement 父親的鼓勵 [(v10-12)](# "ref")
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -219,9 +224,9 @@ while we proclaimed to you the gospel of God.
   + and "real" work at M-F job
 
 ---
-## Labour and Toil
-+ "All work is **sinful**"
-+ "All work is **holy**"
+## Labour and Toil 做工跟辛勞
++ "All work is **sinful**" <br> 所有的工作是 **罪惡** 的
++ "All work is **holy**" <br> 所有的工作是 **聖潔** 的
 
 >>>
 + (2) all work is **holy**: 
@@ -255,16 +260,17 @@ while we proclaimed to you the gospel of God.
 <!-- .slide: data-background="white" -->
 # Do I **work** hard <br> and **care** deeply <br> as I proclaim the gospel?
 <!-- .element: class="r-fit-text" -->
+# 當我傳揚福音時，<br> 我是否努力工作又深切關心?
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
-## Toil of Love [(1Thes2)](# "ref")
+## Toil of Love 愛心的勞苦
 <!-- .element: class="r-fit-text" -->
 
-1. Clean Heart [(v3-6)](# "ref")
-1. Mother's Gift [(v7-9)](# "ref")
-1. **Father's Encouragement** [(v10-12)](# "ref")
-
+1. Clean Heart 清潔的心 [(v3-6)](# "ref")
+1. Mother's Gift 母親的禮物 [(v7-9)](# "ref")
+1. **Father's Encouragement 父親的鼓勵** [(v10-12)](# "ref")
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -330,6 +336,8 @@ who calls you into his own kingdom and glory.
 ---
 <!-- .slide: data-background="white" -->
 # Will I **encourage**, **comfort**, and **testify** <br> that others may walk **worthy** of God's calling?
+<!-- .element: class="r-fit-text" -->
+# 我會勸勉，安慰，見證，好讓 <br> 其他人也可行事對得起神的呼召嗎?
 <!-- .element: class="r-fit-text" -->
 
 >>>
