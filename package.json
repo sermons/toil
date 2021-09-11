@@ -21,6 +21,30 @@
     },
     "history": [
       {
+        "venue": "Zion Christian Reformed Church",
+        "city": "Abbotsford",
+        "date": "2021-09-12",
+        "duration": 38
+      },
+      {
+        "venue": "First Chinese NA Baptist Church",
+        "city": "Vancouver",
+        "date": "2021-06-27",
+        "duration": 21
+      },
+      {
+        "venue": "Bethel Chinese Christian MB Church",
+        "city": "Vancouver",
+        "date": "2021-05-30",
+        "duration": 21
+      },
+      {
+        "venue": "Tri-City Chinese Christian Church MB",
+        "city": "Vancouver",
+        "date": "2021-05-23",
+        "duration": 21
+      },
+      {
         "venue": "Pacific Grace MB Church",
         "city": "South Vancouver",
         "date": "2021-05-16",
@@ -74,7 +98,7 @@
   "license": "CC-BY-SA-4.0",
   "private": true,
   "dependencies": {
-    "highlight.js": "^11.2.0",
+    "highlight.js": "^11.1.0",
     "reveal.js": "^4.1.3",
     "socket.io-client": "^4.1.3"
   },
