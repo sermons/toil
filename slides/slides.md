@@ -68,6 +68,8 @@
 1. **Mother's** Gift **母親的禮物** [(v7-9)](# "ref")
 1. **Father's** Encouragement <br> **父親的鼓勵** [(v10-12)](# "ref")
 
+<!-- .element: class="r-fit-text" -->
+
 >>>
 + Only **scratch** surface: inspire you to study **deeply**
   + As HS reveals **richness**
@@ -172,6 +174,8 @@ but to please **God** who **tests** our hearts.
 1. Clean Heart 清潔的心 [(v3-6)](# "ref")
 1. **Mother's Gift 母親的禮物** [(v7-9)](# "ref")
 1. Father's Encouragement <br> 父親的鼓勵 [(v10-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Might feel **unworthy** + unready to preach gospel
@@ -293,6 +297,8 @@ while we proclaimed to you the gospel of God.
 1. Clean Heart 清潔的心 [(v3-6)](# "ref")
 1. Mother's Gift 母親的禮物 [(v7-9)](# "ref")
 1. **Father's Encouragement** <br> **父親的鼓勵** [(v10-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Lastly, we share the gospel with 
