@@ -1,11 +1,9 @@
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> id="title" -->
-# The Toil of Love <br> 愛心的勞苦
-## 1 Thessalonians <br> 帖撒羅尼迦前書 2:1-12
+# The Toil of Love 
+## 1 Thessalonians 2:1-12
 [Warsaw, Poland. FreeStocks](https://unsplash.com/photos/r_oV6smBBYk/info "caption")
 
 >>>
-+ During pandemic, been easy to become **isolated**
-+ Not just bc **social dist**, but so much **divis** + anger
 + Know many **hurting**, but don't know **how** to reach out
 + **We** ourselves are hurting, tired, and weak:
   + **doubts** about our faith,
@@ -14,9 +12,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do we **share** the gospel <br> when we are **weak**?
-<!-- .element: class="r-fit-text" -->
-# 當我們軟弱時 <br> 如何分享福音?
+# How do we <br> **share** the gospel <br> with **efficacy**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -33,16 +29,16 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
-## Growing Together, While Apart <br> 當分開時一起成長
+## Growing Together, While Apart 
 <!-- .element: class="r-fit-text" -->
 
-| *1* | Impact of **Faith** | 信心的影響 |
-|---|---|---|
-| *2a,b* | Toil of **Love** | 愛心的勞苦 |
-| *3* | Strength from **Hope** | 來自盼望的力量 |
-| *4* | Grow in Purity + **Love** | 在清潔和愛中成長 |
-| *5a* | **Hope** of Salvation | 救贖的盼望 |
-| *5b* | Acts of **Faith** | 信心的行為 |
+| *1* | Impact of **Faith** | 
+|---|---|
+| *2a,b* | Toil of **Love** |
+| *3* | Accountability with **Hope** |
+| *4* | Growing in **Purity + Love** |
+| *5a* | **Hope** as Sons of Day |
+| *5b* | Acts of **Faith** |
 
 <!-- .element: class="r-fit-text" -->
 
@@ -54,26 +50,22 @@
   + the **in-road** / manner amongst them
 + Not **boasting** about self! Repeat. 2 **witnesses**:
   + **God** exam. heart; **you** yourselves know
-+ I feel **unworthy** to preach this passage,
-  + since **far** from living up to it;
-+ So let us treat it as **aspirational**:
-  + **How** ought we to share the gospel?
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" id="outline" -->
-## Toil of Love 愛心的勞苦
+## Toil of Love
 <!-- .element: class="r-fit-text" -->
 
-1. Clean **Heart** **清潔的心** [(v3-6)](# "ref")
-1. **Mother's** Gift **母親的禮物** [(v7-9)](# "ref")
-1. **Father's** Encouragement <br> **父親的鼓勵** [(v10-12)](# "ref")
+1. A Clean **Heart** [(v3-6)](# "ref")
+1. A **Mother's** Gift [(v7-9)](# "ref")
+1. A **Father's** Encouragement [(v10-12)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ Only **scratch** surface: inspire you to study **deeply**
-  + As HS reveals **richness**
-  + **discuss** w/family, smgp, church
++ **unworthy** to preach this passage,
+  + so treat as **aspirational**:
+  + **How** ought we to share the gospel?
 + v3-6: mostly **negative**, how **not** do to missions
 + Some preach **false** gospel in name of Christ
   + or **true** gospel out of **impure** motives: personal gain
@@ -86,10 +78,7 @@
 For our appeal does not spring from <br>
 **error** or **impurity** or any attempt to **deceive**, 
 
-我們的勸勉不是出於錯誤，<br>
-不是出於污穢，也不是用詭詐。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:3 (ESV/CUV)](# "ref")
+[1 Thessalonians 2:3 (ESV)](# "ref")
 
 >>>
 + Even Paul had **motives** questioned! (**Christ**, too)
@@ -110,12 +99,7 @@ words of **flattery**, as you know, <br>
 nor with a pretext for **greed** -- God is witness. <br>
 Nor did we seek **glory** from people
 
-因為我們從來沒有用過諂媚的話，<br>
-這是你們知道的；<br>
-也沒有藏著貪心，<br>
-這是神可以作見證的。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:5 (ESV/CUV)](# "ref")
+[1 Thessalonians 2:5 (ESV)](# "ref")
 
 >>>
 + How we **were** / became, when among you
@@ -134,11 +118,7 @@ to be **entrusted** with the gospel, <br>
 so we speak, not to please **man**, <br>
 but to please **God** who **tests** our hearts. 
 
-但神既然驗中了我們，把福音託付我們，<br>
-我們就照樣講，不是要討人喜歡，<br>
-乃是要討那察驗我們心的神喜歡
-
-[1 Thessalonians 帖撒羅尼迦前書 2:4 (ESV/CUV)](# "ref")
+[1 Thessalonians 2:6 (ESV)](# "ref")
 
 >>>
 + Gospel not **invented** by man, but **given** to us by God
@@ -148,7 +128,6 @@ but to please **God** who **tests** our hearts.
   + striving to be **worthy** of this trust
 
 ---
-## (clean hearts)
 >>>
 + As I **prepare** to share gospel, **examine** own heart:
 + Do I **study** the Bible honestly + deeply? 
@@ -163,17 +142,14 @@ but to please **God** who **tests** our hearts.
 # Is my heart **clean** <br> as I share the gospel?
 <!-- .element: class="r-fit-text" -->
 
-# 當我分享福音時，<br> 我的心是潔淨的嗎?
-<!-- .element: class="r-fit-text" -->
-
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
-## Toil of Love 愛心的勞苦
+## Toil of Love
 <!-- .element: class="r-fit-text" -->
 
-1. Clean Heart 清潔的心 [(v3-6)](# "ref")
-1. **Mother's Gift 母親的禮物** [(v7-9)](# "ref")
-1. Father's Encouragement <br> 父親的鼓勵 [(v10-12)](# "ref")
+1. A Clean Heart [(v3-6)](# "ref")
+1. **A Mother's Gift** [(v7-9)](# "ref")
+1. A Father's Encouragement [(v10-12)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
@@ -188,14 +164,13 @@ But we were **gentle** among you, <br>
 like a nursing **mother** <br>
 taking care of her own children. 
 
-只在你們中間存心溫柔，<br>
-如同母親乳養自己的孩子
-
-[1 Thessalonians 帖撒羅尼迦前書 2:7 (ESV/CUV)](# "ref")
+[1 Thessalonians 2:7 (ESV)](# "ref")
 
 >>>
 + *Gentle* : older manuscripts: **babies** (diff one letter)
   + v11 **father**: analogy of **family** rl
++ *Nursing mother*: not title of mother, but
+  + **action**, care, concern: nurse own kid
 + "Church family": but in reality, too often
   + bring **trauma** from own families:
   + **hurt**, distrust, fear, bitterness
@@ -211,12 +186,7 @@ we were ready to **share** with you not only <br>
 the **gospel** of God but also our own **selves**, <br>
 because you had become very **dear** to us.
 
-我們既是這樣愛你們，<br>
-不但願意將神的福音給你們，<br>
-連自己的性命也願意給你們，<br>
-因你們是我們所疼愛的
-
-[1 Thessalonians 帖撒羅尼迦前書 2:8 (ESV/CUV)](# "ref")
+[1 Thessalonians 2:8 (ESV)](# "ref")
 
 >>>
 + You became **beloved** to us, w/deep **yearning** 
@@ -233,12 +203,7 @@ we worked **night and day**, that we <br>
 might not be a **burden** to any of you, <br>
 while we proclaimed to you the gospel of God. 
 
-弟兄們，你們記念我們的<br>
-辛苦勞碌，晝夜做工，<br>
-傳神的福音給你們，<br>
-免得叫你們一人受累
-
-[1 Thessalonians 帖撒羅尼迦前書 2:9 (ESV/CUV)](# "ref")
+[1 Thessalonians 2:9 (ESV)](# "ref")
 
 >>>
 + **Tentmaking**: normal, honest work, not partic. "spiritual"
@@ -250,9 +215,9 @@ while we proclaimed to you the gospel of God.
   + and "real" work at M-F job
 
 ---
-## Labour and Toil 做工跟辛勞
-+ "All work is **sinful**" <br> 所有的工作是 **罪惡** 的
-+ "All work is **holy**" <br> 所有的工作是 **聖潔** 的
+## Labour and Toil
++ "All work is **sinful**"
++ "All work is **holy**"
 
 >>>
 + (2) all work is **holy**: 
@@ -268,7 +233,6 @@ while we proclaimed to you the gospel of God.
   + to **proclaim** gospel of God
 
 ---
-## (work hard, care deeply)
 >>>
 + Proclaim good news of Chr's salv. not just **wknd** work,
   + special **evangel** mtgs, or **STM**.
@@ -286,17 +250,15 @@ while we proclaimed to you the gospel of God.
 <!-- .slide: data-background="white" -->
 # Do I **work** hard <br> and **care** deeply <br> as I proclaim the gospel?
 <!-- .element: class="r-fit-text" -->
-# 當我傳揚福音時，<br> 我是否努力工作又深切關心?
-<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
-## Toil of Love 愛心的勞苦
+## Toil of Love
 <!-- .element: class="r-fit-text" -->
 
-1. Clean Heart 清潔的心 [(v3-6)](# "ref")
-1. Mother's Gift 母親的禮物 [(v7-9)](# "ref")
-1. **Father's Encouragement** <br> **父親的鼓勵** [(v10-12)](# "ref")
+1. A Clean Heart [(v3-6)](# "ref")
+1. A Mother's Gift [(v7-9)](# "ref")
+1. **A Father's Encouragement** [(v10-12)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
@@ -309,11 +271,7 @@ You are witnesses, and God also, how <br>
 **holy** and **righteous** and **blameless** <br>
 was our conduct toward you believers. 
 
-我們向你們信主的人，<br>
-是何等聖潔、公義、無可指摘，<br>
-有你們作見證，也有神作見證。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:10 (ESV/CUV)](# "ref")
+[1 Thessalonians 2:10 (ESV)](# "ref")
 
 >>>
 + How we **were** toward you (adverbs):
@@ -336,12 +294,7 @@ and **encouraged** you and **charged** you <br>
 to **walk** in a manner **worthy** of God, <br>
 who calls you into his own kingdom and glory.
 
-你們也曉得我們怎樣勸勉你們，<br>
-安慰你們，囑咐你們各人，<br>
-好像父親待自己的兒女一樣， 要叫你們 <br>
-行事對得起那召你們進他國、 得他榮耀的神。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:11-12 (ESV/CUV)](# "ref")
+[1 Thessalonians 2:11-12 (ESV)](# "ref")
 
 >>>
 + Just as God gave first **commandments** to Adam,
@@ -355,7 +308,6 @@ who calls you into his own kingdom and glory.
   + solemnly **affirm** God's way is the path of life
 
 ---
-## (walk worthily)
 >>>
 + Not to bolster **self-esteem** or attain own **goals**,
 + But that their **walk** (daily habits)
@@ -370,9 +322,7 @@ who calls you into his own kingdom and glory.
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **encourage**, **comfort**, and **testify** <br> that others may walk **worthy** of God's calling?
-<!-- .element: class="r-fit-text" -->
-# 我會勸勉，安慰，見證，好讓 <br> 其他人也可行事對得起神的呼召嗎?
+# Will I **encourage**, <br> **comfort**, and **testify** <br> that others may walk <br> **worthy** of God's calling?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -384,7 +334,6 @@ who calls you into his own kingdom and glory.
   + You've **entrusted** the gospel to us to share
 
 ---
-## (prayer)
 >>>
 + **Search** our hearts for impure **motivations**
   + Keep us aligned with Your **truth**, 
