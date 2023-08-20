@@ -7,7 +7,7 @@
 + don't **feel** like shar gospel: **worth** it?
   + out of **oblig**
   + **tried** it, no **impact**
-+ **We** ourselves are hurting, tired, and weak:
++ **We** are hurting, tired, and weak:
   + **doubts** about our faith,
   + **limited** in our love,
   + **struggling** in holy living
@@ -24,12 +24,13 @@
 + We've **rcvd** new **life** of Christ: now
   + invite **others** to behold **Lamb**:
 ______
-+ Remind us of Your **worth**: glory, majesty
-  + Sent **Son** to redeem: You are **worthy**
++ Remind of Your **worth**: glory, majesty
+  + **Son** to redeem: You are **worthy**
   + **Entrust** us w/gospel: it is **worth it**
 + Open our **ears**, eyes, hearts 
   + to receive Your **exhortation**
-+ Equip us **proclaim** Your gospel w/lives
++ Equip us to **proclaim** Your gospel
+  + with our lives
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
@@ -45,13 +46,15 @@ ______
 | *5b* | Acts of **Faith** |
 
 >>>
-+ Theme: **FHL**. ch1: thxgv for Thes' **faith** 
++ Theme: **FHL**
++ ch1: thanks for Thes' **faith** 
   + and **impact** on other believers
-+ ch2: reflects on **ministry** amongst Thes
++ ch2: **ministry** amongst Thes
   + **motiv** + **actions** in sharing gospel
-+ v1 "visit": **in-road** (manner) amongst them
++ v1 "visit": **in-road** (manner) w/them
 + Not **boasting** about self! 2x **witness**:
-  + **God** exam. heart; **you** yourselves know
+  + **God** exam. heart
+  + **you** yourselves know
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" id="outline" -->
@@ -66,12 +69,12 @@ ______
 >>>
 + I **unworthy**: treat as **aspirational**
 + v3-6: mostly **neg**, how **not** to mission
-+ Some preach **false** gospel in name of Chr
-  + or **true** gospel from **impure** motives
++ Some preach **false** gosp in name Chr
+  + or **true** gospel w/**impure** motives
   + for personal **gain**
 + God **sees** through this very **clearly**
 + 2 **triplets** of poisons: root + fruit
-  + Own **beliefs** / motiv impact share gospel
+  + **beliefs** / motiv impact missions
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
@@ -86,14 +89,14 @@ For our appeal does not spring from <br>
   + 3 **poisons**, 3 antidotes
 + *Error* : wandering, vs **truth**
   + Making stuff **up**
-  + Unconsciously affected by **pop culture**
-  + Antidote: deeply **immersed** in Scrip
+  + Unconsc. affect by **pop culture**
++ Anti: deep **immerse** in Scrip
 + *Impurity* : filthy, vs **clean**
-  + **Immoral**, unethical, cover secret sin
-  + Antidote: remember God's **holiness**
+  + **Immoral**, uneth, cover secret sin
++ Anti: remem God's **holiness**
 + *Deceive* : **bait**: 
   + Appears beneficial but **traps**
-  + **Feel-good** msg to **inflate** own nums,
+  + **Feel-good** msg to **inflate** nums,
   + or to **control**, for personal gain
 + Antidote: preach the **whole** gospel,
   + not just comfort promises
@@ -110,17 +113,17 @@ Nor did we seek **glory** from people
 [Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
-+ How we **were** / became, when among you
-+ *Flattery*: **vacuous** / false encouragement
++ How we **were**, when among you
++ *Flattery*: **vacuous** / false encour
   + for personal **gain**
 + Pretext for *greed*: **excuse** / cover 
   + for **selfishness**
-  + Hope to gain **money**, influence, security
-+ *Glory* from people: **admiration**, approval:
+  + **money**, influence, security
++ *Glory* from people: **admir**, approv:
   + "See what a **good** Chr he is!"
   + or **fear**: "not **spiritual** enough!"
-+ We **do** seek a reward, but not from man,
-  + but **God**, who examines our hearts:
++ We **do** seek reward, but not from man
+  + **God**, who examines hearts:
 
 ---
 <!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
@@ -149,11 +152,12 @@ but to please **God** who **tests** our hearts.
 >>>
 + As I **prepare** to share gospel, 
   + **examine** own heart:
-+ Do I **study** the Bible honestly + deeply? 
-  + know God's grace + have **experienced** it?
++ **Study** Bible honestly + deeply? 
+  + **know** God's grace + **exp** it?
 + Do I seek no **gain** for self? 
-  + No money, no thx, no admiration, but only
-  + **reward** of shar in Father's happiness?
+  + No money, no thx, no admiration
++ Only **reward** of sharing
+  + in Father's **happiness**?
 + What is my **motivation** 
   + for proclaim name of Christ?
 
@@ -184,14 +188,14 @@ taking care of her own children.
 >>>
 + *Gentle* : old mscp **babies** (one letter)
   + v11 **father**: analogy of **family** rl
-+ *Nursing mother*: not title of mother, but
-  + **action**, care, concern: nurse own kid
-+ "Church family": but in reality, too often
++ *Nursing*: not title of mother, but
+  + **action**, care, concern: own kid
++ "Church family": but too often
   + bring **trauma** from own families:
   + **hurt**, distrust, fear, bitterness
-+ Or want **escape** own family: 
-  + so only dare have **shallow** church rl
-+ Care for Thess: **warm bond** mom to child
++ Or **escape** from own family: so
+  + only dare have **shallow** church rl
++ **Warm bond** mom to child
   + Invest **whole** heart
 + **Singles**, too!
 
@@ -206,13 +210,13 @@ because you had become very **dear** to us.
 [Legenäsgatan, Sweden. Jon Flobrant](https://unsplash.com/photos/C2PvO6dOORY "caption")
 
 >>>
-+ You became **beloved** to us: deep **yearn** 
++ You became **beloved** (yearn) to us
 + *Share* : give over, **transfer**: 
   + **pour out** life to you
 + (mom): sharing gospel not merely 
   + comm. of **knowledge**, but of **life**
   + of **Christ**, from **my** life to **yours**
-+ w/**vulnerability**, warmth, deep affection
++ w/**vuln**, warmth, deep affection
   + and **hard work**:
 
 ---
@@ -230,12 +234,13 @@ while we proclaimed to you the gospel of God.
   + not partic. "spiritual"
 + to pay own **bills** 
   + so church doesn't have to support
-+ Two **extremes** misunderst role of **work**:
++ Two **extremes** role of **work**:
   + all **sinful**, or all **holy**
 + (1) **sinful**: materialistic, worldly
-  + Serving God means FTE **pastor** / mission
+  + Serve God = FTE **pastor** / mission
   + **Dichot**: "holy" church volun. wknd
   + and "real" work at M-F job
++ e.g., **grad sch** fail class
 
 ---
 ## Labour and Toil
@@ -244,14 +249,14 @@ while we proclaimed to you the gospel of God.
 
 >>>
 + (2) all work is **holy**: 
-  + Succ. in **job** means succ. in Chr walk
-  + **Prayers** revolve **my** acad./career goal
+  + Succ. in **job** = succ. in Chr walk
+  + **Prayers**: **my** acad./career goal
 + If **succ** in job, assume following God
 + If **struggling**: must be **failure** of
   + either **my** spiritual. or **God's** faithf.
 + Paul talks very little about his **tents**: 
-  + won awards, **excel**, was biz good or not
-+ Primary purpose: not to **burden** the church
+  + won awards, **excel**, was biz good
++ Purpose: not to **burden** church
 + Devoted to hard **labour** + toil on 2 fronts:
   + not only to earn own **living**, but
   + to **proclaim** gospel of God
@@ -262,17 +267,17 @@ while we proclaimed to you the gospel of God.
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ Proclaim Chr's salv. not just on **wknds**,
++ Proclaim Chr not just on **wknds**,
   + special **evangel** mtgs, or **STM**.
 + Learn from those who **mothered** us:
   + Mother's **gift** is her own **life**
-+ As Christ poured out **life** to our hearts,
-  + give completely of **selves** for others
++ As Chr poured **life** in our hearts,
+  + give complete of **self** for others
   + so they may **grow** in life of Christ
-+ e.g., son's **env** is us @home: want to
-  + struct. home life around God's **truth**
++ e.g., son's **env** is us @home: struct
+  + home life around God's **truth**
   + demonstr. **grace** + forgive daily
-+ But also extend **outward** beyond family
++ But also extend **beyond** family
   + to world **dying** for real love
 
 ---
@@ -300,17 +305,17 @@ was our conduct toward you believers.
 
 >>>
 + How we **were** toward you (adverbs):
-  + way in which we **behaved** toward you
+  + holily, righteously, blamel.
 + *Holy* : pious, devout, **reverent**:
-  + patterned after God's own holiness
+  + patterned on God's own holy
 + *Righteous* : acc. God's std of **justice**
   + not **own** std, nor that of **tradition**
-+ *Blameless* : not from **human** condemn, but
-  + from **God's** judg: under **Chr's** grace
++ *Blameless* : not **human** condemn,
+  + but **God's** judg: under **Chr's** grace
 + Live **holy** bc **gratitude** for Chr forgive
 + But it is **hard** to live consistently holy:
-  + **Grace** of God **strengthens** us
-  + Benefit from **mentors** who **encourage**:
+  + **Grace** of God **strengthens**, and
++ **Mentors** who **encourage**:
 
 ---
 <!-- .slide: <%= bg("father_son_walk.jpg") %> -->
@@ -324,17 +329,18 @@ who calls you into his own kingdom and glory.
 [1 Thessalonians 2:11-12 (ESV)](# "ref")
 
 >>>
-+ As God gave first **commandments** to Adam,
++ As God gave first **cmdmts** to Adam,
   + and through him to his **family**,
 + So we **fathers** have responsibility
   + to **speak** God's Word in love
   + in fact, not just fathers, **all** of us!
 + *Exhort* : **encour**, call alongside:
   + not give **orders** from afar
-  + but **be** with as they stumble + learn
+  + but **be** with as stumble + learn
 + *Encourage* : **comfort**, console, soothe
 + *Charge* : **testify**, share from own exp
-  + solemnly **affirm** God's way is path life
+  + solemnly **affirm** God's way 
+  + is the path of life
 
 ---
 <!-- .slide: data-background="white" -->
@@ -349,9 +355,9 @@ who calls you into his own kingdom and glory.
 + He is **King** of glory: 
   + **called** us into His kingdom
 + He is **worthy** of all honour,
-  + so **worth** it to proclaim His holiness
-+ Through own **holy** conduct, and through
-  + **encouragement**, comfort, and testimony
+  + so **worth** it to proclaim holy
++ Through own **holy** conduct, and
+  + **encour**, comfort, testimony
 + to **equip** others to live in holiness
 
 
@@ -362,7 +368,7 @@ who calls you into his own kingdom and glory.
   + You are **holy**, that we are **sinful**,
   + You sent Christ to **die** + **resurrect**
   + You are **coming** soon w/reward
-+ We've **experienced** your grace, and You
++ We've **exp** your grace, and You
   + **entrust** gospel to us to share
 + **Search** our hearts for impure **motiv.**
   + Keep us aligned with Your **truth**, 
@@ -374,6 +380,6 @@ who calls you into his own kingdom and glory.
 + **Strengthen** our hearts to live 
   + as Your holy, redeemed people
 + to **encourage**, comfort, and testify 
-  + they also Your **holy**, redeemed people
+  + to be Your **holy**, redeem people
 ________________________________________________
 
