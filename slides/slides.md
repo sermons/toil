@@ -14,7 +14,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do we <br> **share** the gospel <br> with **efficacy**?
+# How can we <br> **share** the gospel <br> with **efficacy**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -34,6 +34,7 @@ ______
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
 ## Growing Together, While Apart 
+<!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 
 |---|---|
@@ -42,8 +43,6 @@ ______
 | *4* | Growing in **Purity + Love** |
 | *5a* | **Hope** as Sons of Day |
 | *5b* | Acts of **Faith** |
-
-<!-- .element: class="r-fit-text" -->
 
 >>>
 + Theme: **FHL**. ch1: thxgv for Thes' **faith** 
@@ -56,7 +55,7 @@ ______
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" id="outline" -->
-## Toil of Love
+## Toil of Love [(1Th2a)](# "ref")
 
 1. A Clean **Heart** [(v3-6)](# "ref")
 1. A **Mother's** Gift [(v7-9)](# "ref")
@@ -75,10 +74,12 @@ ______
   + Own **beliefs** / motiv impact share gospel
 
 ---
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 For our appeal does not spring from <br>
 **error** or **impurity** or any attempt to **deceive**, 
 
 [1 Thessalonians 2:3 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/c333d6YEhi0 "caption")
 
 >>>
 + *appeal*: **encouragement**
@@ -99,12 +100,14 @@ For our appeal does not spring from <br>
 + 2nd triplet: **fruit**: char as share gospel
 
 ---
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 For we never came with <br>
 words of **flattery**, as you know, <br>
 nor with a pretext for **greed** -- God is witness. <br>
 Nor did we seek **glory** from people
 
 [1 Thessalonians 2:5 (ESV)](# "ref")
+[Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
 + How we **were** / became, when among you
@@ -120,12 +123,14 @@ Nor did we seek **glory** from people
   + but **God**, who examines our hearts:
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 but just as we have been **approved** by God <br>
 to be **entrusted** with the gospel, <br>
 so we speak, not to please **man**, <br>
 but to please **God** who **tests** our hearts. 
 
 [1 Thessalonians 2:4 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 + Gospel not **invented** by man,
@@ -154,7 +159,7 @@ but to please **God** who **tests** our hearts.
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
-## Toil of Love
+## Toil of Love [(1Th2a)](# "ref")
 
 1. A Clean Heart [(v3-6)](# "ref")
 1. **A Mother's Gift** [(v7-9)](# "ref")
@@ -169,6 +174,7 @@ but to please **God** who **tests** our hearts.
 + But the **life** of the risen Saviour
 
 ---
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
 But we were **gentle** among you, <br>
 like a nursing **mother** <br>
 taking care of her own children. 
@@ -190,12 +196,14 @@ taking care of her own children.
 + **Singles**, too!
 
 ---
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 So, being **affectionately** desirous of you, <br>
 we were ready to **share** with you not only <br>
 the **gospel** of God but also our own **selves**, <br>
 because you had become very **dear** to us.
 
 [1 Thessalonians 2:8 (ESV)](# "ref")
+[Legenäsgatan, Sweden. Jon Flobrant](https://unsplash.com/photos/C2PvO6dOORY "caption")
 
 >>>
 + You became **beloved** to us: deep **yearn** 
@@ -208,12 +216,14 @@ because you had become very **dear** to us.
   + and **hard work**:
 
 ---
+<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 For you remember, brothers, our **labor and toil**: <br>
 we worked **night and day**, that we <br>
 might not be a **burden** to any of you, <br>
 while we proclaimed to you the gospel of God. 
 
 [1 Thessalonians 2:9 (ESV)](# "ref")
+[Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 
 >>>
 + **Tentmaking**: normal, honest work
@@ -267,7 +277,7 @@ while we proclaimed to you the gospel of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> class="outline" -->
-## Toil of Love
+## Toil of Love [(1Th2a)](# "ref")
 
 1. A Clean Heart [(v3-6)](# "ref")
 1. A Mother's Gift [(v7-9)](# "ref")
@@ -280,11 +290,13 @@ while we proclaimed to you the gospel of God.
 + our **life** and our **words**:
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 You are witnesses, and God also, how <br>
 **holy** and **righteous** and **blameless** <br>
 was our conduct toward you believers. 
 
 [1 Thessalonians 2:10 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + How we **were** toward you (adverbs):
@@ -301,8 +313,9 @@ was our conduct toward you believers.
   + Benefit from **mentors** who **encourage**:
 
 ---
+<!-- .slide: <%= bg("father_son_walk.jpg") %> -->
 For you know how, like a **father** with his <br>
-children, [12](# "ref")
+children,
 we **exhorted** each one of you <br>
 and **encouraged** you and **charged** you <br>
 to **walk** in a manner **worthy** of God, <br>
